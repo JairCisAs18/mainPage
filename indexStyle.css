@@ -3,7 +3,7 @@ html,body,h1, h2, h3, h4, h5, h6,p,ul, ol {
 }
 
 body{
-    background-image: url("../img/fondoInicial.jpg");
+    background-image: url("fondoInicial.jpg");
 }
 
 #main-container{
